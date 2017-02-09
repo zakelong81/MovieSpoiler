@@ -1,0 +1,30 @@
+body  {
+
+    background-color: #CCFFDE;
+
+}
+
+img {
+    display: inline-block;
+}
+
+.spoil-protect {
+
+    background: #CCFFDE;
+
+    color : #CCFFDE;
+
+}
+
+.spoil-protect:hover {
+    background-color: black;
+}
+
+.serif{
+  font-family: Verdana;
+  color:  red ;
+}
+
+.actor{
+  color:  blue ;
+}
